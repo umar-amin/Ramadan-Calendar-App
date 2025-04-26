@@ -30,7 +30,7 @@ The Ramadan Calendar App is designed to provide a comprehensive Islamic experien
 
 ### Android/iOS/macOS/Apple Watch
 
-![Screenshot 1](https://dummyimage.com/600x400/000/fff&text=Screenshot+1)
+![Screenshot 1](https://play-lh.googleusercontent.com/e5-4VVO_XluXmSh9fvlE5mv7YdNjUXGFnSVAeECz7CTRspk0Vl8TSOvjP6h6OFApY6I=w5120-h2880-rw)
 ![Screenshot 2](https://dummyimage.com/600x400/000/fff&text=Screenshot+2)
 ![Screenshot 3](https://dummyimage.com/600x400/000/fff&text=Screenshot+3)
 ![Screenshot 4](https://dummyimage.com/600x400/000/fff&text=Screenshot+4)

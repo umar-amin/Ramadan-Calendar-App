@@ -32,9 +32,9 @@ The Ramadan Calendar App is designed to provide a comprehensive Islamic experien
 
 ![Screenshot 1](https://play-lh.googleusercontent.com/e5-4VVO_XluXmSh9fvlE5mv7YdNjUXGFnSVAeECz7CTRspk0Vl8TSOvjP6h6OFApY6I=w5120-h2880-rw)
 ![Screenshot 2](https://play-lh.googleusercontent.com/As1yxS4nAKFR6DMc0QkJifSA-_Pxv7cldhTpRCUh834TakXNO7vY5HmxsUoM5jzqrK0=w2560-h1440-rw)
-![Screenshot 3](https://dummyimage.com/600x400/000/fff&text=Screenshot+3)
-![Screenshot 4](https://dummyimage.com/600x400/000/fff&text=Screenshot+4)
-![Screenshot 5](https://dummyimage.com/600x400/000/fff&text=Screenshot+5)
+![Screenshot 3](https://play-lh.googleusercontent.com/AP4b7r_JK8LPMwGVhgYv-kgjiqViTodCc5tLjoAyCHRfKJ480XfCmVmcHhzQ9vWp8LzN=w2560-h1440-rw)
+![Screenshot 4](https://play-lh.googleusercontent.com/kDpaK9xT_MR2mqtvL6KdK1pk3axH5WAB9QwaCWMMPoI8hG5YfrM53ZoXxQMvUNwCsb1O=w2560-h1440-rw)
+![Screenshot 5](https://play-lh.googleusercontent.com/cPEEHdho1E4vnsqoYu1SVTz23iZoe8IQIcA4m7jC54rcoeG5H1svmy0VWpSrUT8Veg=w2560-h1440-rw)
 
 ## Contributing
 
